@@ -24,7 +24,7 @@ The current version 1.0 covers the following languages:
 - Russian
 - Spanish
 - Swedish
-- Ukranian​
+- Ukrainian​
 
 The following languages are in preparation:
 
