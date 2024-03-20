@@ -1,4 +1,8 @@
-# Hoosier Ellipsis Corpus
+# The Hoosier Ellipsis Corpus (THEC)
+
+Created by [Damir Cavar], 03/18/2024
+
+Last change: [Damir Cavar], 03/18/2024
 
 The Hoosier Ellipsis Corpus is a dataset created and maintained by a team of researchers at the [NLP-Lab](https://nlp-lab.org/).
 
@@ -8,7 +12,7 @@ The current version 1.0 covers the following languages:
 - Mandarin Chinese
 - Croatian
 - English
-- German
+- [German](https://github.com/dcavar/thec_deu)
 - Gujarati
 - Hindi
 - Japanese
@@ -30,6 +34,9 @@ The following languages are in preparation:
 - Tamil
 - Telugu​
 
+Each language dataset is stored in its own repo. Follow the links to download the dataset.
+
+If you have data to contribute to some language, contact us at the [NLP-Lab](https://nlp-lab.org/) or contact [Damir Cavar].
 
 
 ## Citation
@@ -51,3 +58,10 @@ Please use the following snippet to cite our work.
     abstract = "State-of-the-art (SotA) Natural Language Processing (NLP) technology faces significant challenges with constructions that contain ellipses. Although theoretically well-documented and understood, there needs to be more sufficient cross-linguistic language resources to document, study, and ultimately engineer NLP solutions that can adequately provide analyses for ellipsis constructions. This article describes the typological data set on ellipsis that we created for currently seventeen languages. We demonstrate how SotA parsers based on a variety of syntactic frameworks fail to parse sentences with ellipsis, and in fact, probabilistic, neural, and Large Language Models (LLM) do so, too. We demonstrate experiments that focus on detecting sentences with ellipsis, predicting the position of elided elements, and predicting elided surface forms in the appropriate positions. We show that cross-linguistic variation of ellipsis-related phenomena has different consequences for the architecture of NLP systems.",
 }
 ```
+
+
+
+[Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
+[Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "Hoosier Ellipsis Corpus"
+[the Hoosier Ellipsis Corpus]: https://nlp-lab.org/ellipsis/ "the Hoosier Ellipsis Corpus"
+[NLP-Lab]: https://nlp-lab.org/ "NLP-Lab"
