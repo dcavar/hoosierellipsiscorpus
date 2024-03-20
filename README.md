@@ -28,7 +28,7 @@ The current version 1.0 covers the following languages:
 
 The following languages are in preparation:
 
-- Bengal
+- Bengali
 - Hebrew
 - Kanada
 - Tamil
