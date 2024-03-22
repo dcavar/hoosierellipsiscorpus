@@ -22,7 +22,7 @@ The current version 1.0 covers the following languages:
 - Norwegian
 - Polish
 - Russian
-- Spanish
+- [Spanish](https://github.com/dcavar/thec_spa)
 - Swedish
 - Ukrainian​
 
