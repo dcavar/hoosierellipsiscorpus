@@ -11,7 +11,7 @@ The current version 1.0 covers the following languages:
 - [Arabic](https://github.com/dcavar/thec_ara)
 - Mandarin Chinese
 - Croatian
-- English
+- [English](https://github.com/dcavar/thec_eng)
 - [German](https://github.com/dcavar/thec_deu)
 - Gujarati
 - Hindi
