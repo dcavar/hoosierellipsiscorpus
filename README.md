@@ -13,7 +13,7 @@ The current version 1.0 covers the following languages:
 - Croatian
 - [English](https://github.com/dcavar/thec_eng)
 - [German](https://github.com/dcavar/thec_deu)
-- Gujarati
+- [Gujarati](https://github.com/dcavar/thec_guj)
 - [Hindi](https://github.com/dcavar/thec_hin)
 - [Japanese](https://github.com/dcavar/thec_jpn)
 - [Kumaoni](https://github.com/dcavar/thec_kfy)
