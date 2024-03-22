@@ -18,7 +18,7 @@ The current version 1.0 covers the following languages:
 - [Japanese](https://github.com/dcavar/thec_jpn)
 - [Kumaoni](https://github.com/dcavar/thec_kfy)
 - [Korean](https://github.com/dcavar/thec_kor)
-- Navajo
+- [Navajo](https://github.com/dcavar/thec_nav)
 - Norwegian
 - [Polish](https://github.com/dcavar/thec_pol)
 - Russian
