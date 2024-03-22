@@ -24,7 +24,8 @@ The current version 1.0 covers the following languages:
 - Russian
 - [Spanish](https://github.com/dcavar/thec_spa)
 - Swedish
-- Ukrainian​
+- Telugu​
+- [Ukrainian](https://github.com/dcavar/thec_ukr)​
 
 The following languages are in preparation:
 
@@ -32,7 +33,6 @@ The following languages are in preparation:
 - Hebrew
 - Kanada
 - Tamil
-- Telugu​
 
 Each language dataset is stored in its own repo. Follow the links to download the dataset.
 
