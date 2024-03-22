@@ -24,7 +24,7 @@ The current version 1.0 covers the following languages:
 - Russian
 - [Spanish](https://github.com/dcavar/thec_spa)
 - Swedish
-- Telugu​
+- [Telugu](https://github.com/dcavar/thec_tel)​
 - [Ukrainian](https://github.com/dcavar/thec_ukr)​
 
 The following languages are in preparation:
