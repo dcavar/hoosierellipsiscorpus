@@ -15,7 +15,7 @@ The current version 1.0 covers the following languages:
 - [German](https://github.com/dcavar/thec_deu)
 - Gujarati
 - [Hindi](https://github.com/dcavar/thec_hin)
-- Japanese
+- [Japanese](https://github.com/dcavar/thec_jpn)
 - Kumaoni
 - [Korean](https://github.com/dcavar/thec_kor)
 - Navajo
