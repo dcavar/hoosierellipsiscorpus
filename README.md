@@ -9,7 +9,7 @@ The Hoosier Ellipsis Corpus is a dataset created and maintained by a team of res
 The current version 1.0 covers the following languages:
 
 - [Arabic](https://github.com/dcavar/thec_ara)
-- Mandarin Chinese
+- [Mandarin Chinese](https://github.com/dcavar/thec_cmn)
 - Croatian
 - [English](https://github.com/dcavar/thec_eng)
 - [German](https://github.com/dcavar/thec_deu)
