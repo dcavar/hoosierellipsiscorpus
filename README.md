@@ -30,8 +30,13 @@ The current version 1.0 covers the following languages:
 The following languages are in preparation:
 
 - Bengali
+- Bosnian
+- Bulgarian
 - Hebrew
 - Kanada
+- Serbian
+- Slovak
+- Slovenian
 - Tamil
 
 Each language dataset is stored in its own repo. Follow the links to download the dataset.
