@@ -20,7 +20,7 @@ The current version 1.0 covers the following languages:
 - [Korean](https://github.com/dcavar/thec_kor)
 - Navajo
 - Norwegian
-- Polish
+- [Polish](https://github.com/dcavar/thec_pol)
 - Russian
 - [Spanish](https://github.com/dcavar/thec_spa)
 - Swedish
