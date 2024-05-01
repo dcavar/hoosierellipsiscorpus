@@ -21,7 +21,7 @@ The current version 1.0 covers the following languages:
 - [Navajo](https://github.com/dcavar/thec_nav)
 - Norwegian
 - [Polish](https://github.com/dcavar/thec_pol)
-- Russian
+- [Russian](https://github.com/dcavar/thec_rus)
 - [Spanish](https://github.com/dcavar/thec_spa)
 - Swedish
 - [Telugu](https://github.com/dcavar/thec_tel)​
