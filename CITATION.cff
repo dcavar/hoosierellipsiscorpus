@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cavar"
+  given-names: "Damir"
+  orcid: "https://orcid.org/0000-0002-1262-5927"
+- family-names: "Mompelat"
+  given-names: "Ludovic Veta"
+- family-names: "Abdo"
+  given-names: "Muhammed S"
+title: "The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications"
+version: 2.0.4
+date-released: 2024-03-22
+url: "https://github.com/dcavar/hoosierellipsiscorpus"
